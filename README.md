@@ -6,7 +6,7 @@
 ---
 
 ## 🔬 Ongoing Projects
-- 🧠 **Cryo-ET Few-Shot Segmentation** using DreamPRM and AIME dataset
+- 🧠 **Multimodal Emotion Based Media Recommendation System Using LLM and CV** (On-Going)
 - 🧰 **AI Resume Screener Agent** — Extracts, ranks, and scores resumes using n8n, OpenAI & Google Sheets
 - 🩺 **Healthcare Deep Learning** — Applying SOTA techniques on real-world biomedical datasets
 
@@ -14,31 +14,33 @@
 
 ## 📌 Featured Projects
 - [🔗 Resume Screener AI](https://github.com/meshalnayim/resume-screener)
-- [🔗 Cryo-ET DreamPRM Implementation](https://github.com/meshalnayim/cryoet-dreamprm)
-- [🔗 Data Engineering Dashboards (Streamlit)](https://github.com/meshalnayim/streamlit-dashboards)
+- [🔗 Transfer Learning-Driven CNN for Discriminative Analysis of Real versus Latent Diffusion Model-Generated Synthetic Images on the CIFAKE Dataset](https://github.com/meshalnayim/)
 
 ---
 
 ## 📚 Publications
-- **"Title of Your Paper"** — Conference Name, Year. [PDF / DOI Link](#)
+- **"Detection of Leading CNN Models for AI Image Accuracy and Efficiency
+"** IACIS, 2024. (https://ieeexplore.ieee.org/document/10721936)
 
 ---
 
 ## 💼 Experience
-- 🧠 Research Intern @ [Lab Name or Company] – AI for Structural Biology (2025)
-- 🔢 Data Engineer @ Al Anees Group – ETL pipelines, inventory & sales analytics (2023–24)
-- 🧪 ML Intern @ [Your Experience or Volunteer Role] – Model training and deployment
+- 🧠 AI Automation Engineer Intern @ Al Anees – AI for Resume Screening and PDF Parsing (2025)
+- 🔢 Data Engineer @ Al Anees – ETL pipelines, inventory & sales analytics (2023–24)
+- 🧪 Undergraduate Researche @ VIT,Chennai – Model training and deployment
+- 📶 Data Scientist @ Ooredoo – Telecom Data Analytics and Predictive Modeling (2024–Present)  
+
 
 ---
 
 ## 🛠️ Tech Stack
-`Python` | `PyTorch` | `TensorFlow` | `Pandas` | `FastAPI` | `Streamlit` | `SQL`  
-`n8n` | `AWS Lambda` | `Textract` | `Looker` | `HuggingFace` | `Git` | `Docker`
+`Python` | `PyTorch` | `TensorFlow` | `Spark` | `Databricks` | `Pandas` | `FastAPI` | `Streamlit` | `SQL`  
+`n8n` | `AWS Lambda` | `Textract` | `Looker` | `HuggingFace` | `Git` | `Docker`  `Apache Airflow`
 
 ---
 
 ## 📫 Reach Out
-[🌐 Portfolio](https://yourname.github.io) • [📄 Resume](https://yourname.github.io/resume.pdf) • [💼 LinkedIn](https://linkedin.com/in/meshalnayim) • [📧 Email](mailto:you@email.com)
+ • [💼 LinkedIn](https://www.linkedin.com/in/meshal-nayim-b13750231/) • [📧 Email](mailto:meshalnayim10@gmail.com)
 
 ---
 
