@@ -30,9 +30,9 @@ I’m passionate about bridging the gap between research and real-world deployme
 
 ## 💼 Experience
 - 🧠 AI Automation Engineer Intern @ Al Anees – AI for Resume Screening and PDF Parsing (2025)
-- 🔢 Data Engineer @ Al Anees – ETL pipelines, inventory & sales analytics (2023–24)
-- 🧪 Undergraduate Researche @ VIT,Chennai – Model training and deployment
-- 📶 Data Scientist @ Ooredoo – Telecom Data Analytics and Predictive Modeling (2024–Present)  
+- 🔢 Data Engineer @ Al Anees – ETL pipelines, inventory & sales analytics (2025–2025)
+- 🧪 Undergraduate Researche @ VIT,Chennai – Model training and deployment (2023-2025)
+- 📶 Data Scientist @ Ooredoo – Telecom Data Analytics and Predictive Modeling (2023–2024)  
 
 
 ---
