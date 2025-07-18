@@ -12,12 +12,11 @@ I’m passionate about bridging the gap between research and real-world deployme
 ## 🔬 Ongoing Projects
 - 🧠 **Multimodal Emotion Based Media Recommendation System Using LLM and CV** (On-Going)
 - 🧰 **AI Resume Screener Agent** — Extracts, ranks, and scores resumes using n8n, OpenAI & Google Sheets
-- 🩺 **Healthcare Deep Learning** — Applying SOTA techniques on real-world biomedical datasets
+- 🩺 **Healthcare Deep Learning** — Finetuning LLM to generate reports from medical imagery
 
 ---
 
 ## 📌 Featured Projects
-- [🔗 Resume Screener AI](https://github.com/meshalnayim/resume-screener)
 - [🔗 Transfer Learning-Driven CNN for Discriminative Analysis of Real versus Latent Diffusion Model-Generated Synthetic Images on the CIFAKE Dataset](https://github.com/meshalnayim/)
 
 ---
