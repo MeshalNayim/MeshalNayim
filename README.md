@@ -17,8 +17,9 @@ I’m passionate about bridging the gap between research and real-world deployme
 ---
 
 ## 📌 Featured Projects
+- [🔗 LLM From Scratch : 124 Million Parameter GPT-2 Architecure From Scratch](https://github.com/MeshalNayim/GPT2_from_scratch)
+
 - [🔗 Transfer Learning-Driven CNN for Discriminative Analysis of Real versus Latent Diffusion Model-Generated Synthetic Images on the CIFAKE Dataset](https://github.com/MeshalNayim/Ai-vs-real-image-classification)
-- [🔗 124 Million Parameter GPT-2 From Scratch](https://github.com/MeshalNayim/GPT2_from_scratch)
 
 ---
 
