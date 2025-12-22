@@ -2,7 +2,9 @@
 
 I'm a Master's student in Data Science at UC San Diego with a strong interest in applied AI, Infra, and  automation. 
 
-## 📌 Recent Projects
+## 📌 Recent Projects and Contributions:
+- [🔗OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments (Open-Source Contribution]((https://github.com/MeshalNayim/OSWorld))
+
 - [🔗 LLM From Scratch : 124 Million Parameter GPT-2 Architecure From Scratch](https://github.com/MeshalNayim/GPT2_from_scratch)
 
 - [🔗 Transfer Learning-Driven CNN for Discriminative Analysis of Real versus Latent Diffusion Model-Generated Synthetic Images on the CIFAKE Dataset](https://github.com/MeshalNayim/Ai-vs-real-image-classification)
@@ -28,7 +30,7 @@ AI Approach. (Under Review)
 
 ## 🛠️ Tech Stack
 `Python` | `PyTorch` | `TensorFlow` | `Spark` | `Databricks` | `Pandas` | `FastAPI` | `Streamlit` | `SQL`  
-`n8n` | `AWS Lambda` | `Textract` | `Looker` | `HuggingFace` | `Git` | `Docker`  `Apache Airflow`| `DBT`| `MLFlow`| `Kubernetes`| `Prometheus`| `Pinecone`
+`n8n` | `AWS Lambda` | `Textract` | `Looker` | `HuggingFace` | `Git` | `Docker` | `Apache Airflow`| `DBT`| `MLFlow`| `Kubernetes`| `Prometheus`| `Pinecone`
 
 ---
 
