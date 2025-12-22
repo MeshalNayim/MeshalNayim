@@ -3,7 +3,7 @@
 I'm a Master's student in Data Science at UC San Diego with a strong interest in applied AI, Infra, and  automation. 
 
 ## 📌 Recent Projects and Contributions:
-- [🔗OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments (Open-Source Contribution]((https://github.com/MeshalNayim/OSWorld))
+- [🔗OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments (Open-Source Contribution)](https://github.com/MeshalNayim/OSWorld)
 
 - [🔗 LLM From Scratch : 124 Million Parameter GPT-2 Architecure From Scratch](https://github.com/MeshalNayim/GPT2_from_scratch)
 
