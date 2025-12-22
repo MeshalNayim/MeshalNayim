@@ -20,10 +20,11 @@ AI Approach. (Under Review)
 ---
 
 ## 💼 Experience
-- 🧠 AI Automation Engineer Intern @ Al Anees – AI for Resume Screening and PDF Parsing (2025)
-- 🔢 Data Analyst @ Al Anees – ETL pipelines, inventory & sales analytics, ML modeling, Customer behavior analysis(2024–2025)
-- 🧪 Undergraduate Researcher @ VIT,Chennai – Model training and deployment (2023-2025)
-- 📶 Data Scientist @ Ooredoo – Telecom Data Analytics and Predictive Modeling (2023–2024)  
+-  Research Assistant @ UCSD – Devloping AI Agent benchmarking Tools, Evaluating AI Agents MCP Tool usage and behaviour (2025)
+-  AI Automation Engineer Intern @ Al Anees – Automation workflows using n8n and AI for Resume Screening and Financial Reconcilation (2025)
+-  Data Analyst @ Al Anees – ETL pipelines, inventory & sales analytics, ML modeling, Customer Segmentation(2024–2025)
+-  Undergraduate Researcher @ VIT,Chennai – Model training and deployment (2023-2025)
+-  Data Warehouse Intern @ Ooredoo – Telecom Data Analytics, ETL and Data Modeling (2023–2024)  
 
 
 ---
