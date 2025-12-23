@@ -14,8 +14,7 @@ I'm a Master's student in Data Science at UC San Diego with a strong interest in
 ## 📚 Publications
 - **"Detection of Leading CNN Models for AI Image Accuracy and Efficiency
 "** IACIS, 2024. (https://ieeexplore.ieee.org/document/10721936)
-- **Cross-Lingual Emotion Detection: An Explainable
-AI Approach. (Under Review)
+
 
 ---
 
