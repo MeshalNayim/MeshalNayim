@@ -3,17 +3,17 @@
 MS Data Science at UC San Diego with a strong interest in applied AI, Infra, and  automation. 
 
 ## 📌 Recent Projects and Contributions:
-- [🔗OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments](https://github.com/MeshalNayim/OSWorld)
+- [🔗 triton-kernel-tensor-parallel ](https://github.com/MeshalNayim/triton-kernel-tensor-parallel)
 
-- [🔗 LLM From Scratch : 124 Million Parameter GPT-2 Architecure](https://github.com/MeshalNayim/GPT2_from_scratch)
+- [🔗 C-World-Computer-Agent : An Open-world Tool-using Environment for Scalable Agent Testing](https://github.com/MeshalNayim/C-World-Computer-Agent)
 
-- [🔗 Transfer Learning-Driven CNN for Discriminative Analysis of Real versus Latent Diffusion Model-Generated Synthetic Images on the CIFAKE Dataset](https://github.com/MeshalNayim/Ai-vs-real-image-classification)
+- [🔗YouTube Trending Analytics, AWS Data Pipeline](https://github.com/MeshalNayim/Live-youtube-trending-AWS-ETL-pipeline)
 
 ---
 
 ## 📚 Publications
-- **"Detection of Leading CNN Models for AI Image Accuracy and Efficiency
-"** IACIS, 2024. (https://ieeexplore.ieee.org/document/10721936)
+- **"C-World: A Computer Use Agent Environment Creator
+"** ACL, 2026. (https://arxiv.org/abs/2601.06328)
 
 
 ---
