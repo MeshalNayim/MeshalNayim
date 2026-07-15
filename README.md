@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Meshal Nayim
 
-MS Data Science at UC San Diego with a strong interest in applied AI, Infra, and  automation. 
+MS Data Science at UC San Diego with a strong interest in applied AI, Infra, Data and automation. 
 
 ## 📌 Recent Projects and Contributions:
 - [🔗 triton-kernel-tensor-parallel ](https://github.com/MeshalNayim/triton-kernel-tensor-parallel)
