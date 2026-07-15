@@ -19,7 +19,7 @@ MS Data Science at UC San Diego with a strong interest in applied AI, Infra, and
 ---
 
 ## 💼 Experience
--  Distributed Systems Developer @ SDSC - Data pipelines, large scale internet data processing
+- Data Engineer & Analyst, Internet Measurement @ SDSC - Data pipelines, large scale internet data processing
 -  Research Assistant @ UCSD – Devloping AI Agent benchmarking Tools, Evaluating AI Agents MCP Tool usage and behaviour (2025)
 -  AI Automation Engineer Intern @ Al Anees – Automation workflows using n8n and AI for Resume Screening and Financial Reconcilation (2025)
 -  Data Engineer @ Al Anees – ETL pipelines, inventory & sales analytics (2024–2025)
